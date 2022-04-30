@@ -34,7 +34,7 @@ const App = () => {
     else if (!currentAccount){
       return(
         <div className="connect-wallet-container">
-          <img src="https://cloudflare-ipfs.com/ipfs/QmRm7gAQHLT9qeeM6ryCisMaMfPWFTD98TmLricmgXDJXy"/>
+          <img src="https://cloudflare-ipfs.com/ipfs/QmSA1HDSyzRqXHtYGBworaMKCfPPMSDwamLJLapfamZYj2"/>
         <button
           className="cta-button connect-wallet-button"
           onClick={connectWalletAction}
