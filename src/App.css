@@ -1,3 +1,4 @@
+
 .App {
   height: 100vh;
   background-color: #0d1116;
@@ -139,4 +140,8 @@
   100% {
     background-position: 0% 50%;
   }
+}
+
+p {
+  color: white;
 }
